@@ -1,5 +1,5 @@
 ### Hii!
-I'm Suhani, a first year undergraduate currently pursuing BTech at Institute of Engineering and Technology.
+I'm Suhani.
 
  Currently vibing to:
  
