@@ -1,6 +1,7 @@
 ### Hii!
 I'm Suhani.
 I am an open source contributor in GSSOC'24.
+I'm a first year undergraduate student currently pursuing BTech.
 
 #
 :- 🎧 Currently vibing to this awesome track -:
