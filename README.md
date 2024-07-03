@@ -1,5 +1,6 @@
 ### Hii!
 I'm Suhani.
+I am currently pursuing BTech.
 I am an open source contributor in GSSOC'24.
 
 #
