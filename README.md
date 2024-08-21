@@ -1,3 +1,5 @@
+<h1 align="center">Hello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Suhani Singh Paliwal</h1>
+
 - 👋 Hi, I’m @suhanipaliwal
 - 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on my upcoming projects
