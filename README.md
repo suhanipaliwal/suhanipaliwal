@@ -5,7 +5,8 @@
 - 💞️ I’m looking to collaborate on my upcoming projects
 - 📫 How to reach me suhanispaliwal@gmail.com
 - 😄 Pronouns: she/her
-
+- Learning something new everyday
+  
 <!---
 suhanipaliwal/suhanipaliwal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -26,4 +27,4 @@ You can click the Preview link to take a look at your changes.
 #
 :- 🎧 Currently vibing to this awesome track -:
 --:
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31ik7hp6yn5wqialc4ltfjsb6dka&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31ik7hp6yn5wqialc4ltfjsb6dka&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile) 
