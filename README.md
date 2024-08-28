@@ -5,7 +5,6 @@
 - 💞️ I’m looking to collaborate on my upcoming projects
 - 📫 How to reach me suhanispaliwal@gmail.com
 - 😄 Pronouns: she/her
-- Learning something new everyday
   
 <!---
 suhanipaliwal/suhanipaliwal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
