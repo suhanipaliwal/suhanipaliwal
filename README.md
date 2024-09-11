@@ -1,10 +1,9 @@
 <h1 align="center">Hello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Suhani Singh Paliwal</h1>
 
 - 👋 Hi, I’m @suhanipaliwal
-- 🌱 I’m currently working as a Program Manager for GSSoC'24 Ext
-- 👯‍♀️ I’m looking to collaborate on my upcoming projects
+- 🌱 I’m currently pursuing BTech
+- 💞️ I’m looking to collaborate on my upcoming projects
 - 📫 How to reach me suhanispaliwal@gmail.com
-- ✨ Currently I'm also pursuing BTech at [IET](https://www.ietlucknow.ac.in/)
 - 😄 Pronouns: she/her
   
 <!---
@@ -25,6 +24,6 @@ You can click the Preview link to take a look at your changes.
 <br>
 
 #
- 🎧 Vibing to this superb track right now 🎧 
+:- 🎧 Currently vibing to this awesome track -:
 --:
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31ik7hp6yn5wqialc4ltfjsb6dka&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile) 
