@@ -1,8 +1,6 @@
 <h1 align="center">Hello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Suhani Singh Paliwal</h1>
 
 - 👋 Hi, I’m @suhanipaliwal
-- 🌱 I’m currently working as a Program Manager for GSSoC'24 Ext
-- 👯‍♀️ I’m looking to collaborate on my upcoming projects
 - 📫 How to reach me suhanispaliwal@gmail.com
 - ✨ Currently I'm also pursuing BTech at [IET](https://www.ietlucknow.ac.in/)
 - 😄 Pronouns: she/her
