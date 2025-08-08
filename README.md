@@ -3,6 +3,7 @@
 - 👋 Hi, I’m @suhanipaliwal
 - 📫 How to reach me suhanispaliwal@gmail.com
 - ✨ Currently I'm also pursuing BTech at [IET](https://www.ietlucknow.ac.in/)
+- 🌱 Prev. Program Manager for GSSoC'24 Ext
 - 😄 Pronouns: she/her
 - 💬 Have questions regarding GSSoC, open-source or GitHub? Feel free to [contact me](https://topmate.io/suhani_singh_paliwal/1202120/pay).
   
